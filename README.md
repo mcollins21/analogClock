@@ -1,4 +1,4 @@
-# Analog Clock
+# analogClock
 
 The clock program is a Java application that shows a clock on your computer screen. It has a graphical user interface (GUI) with a window that displays the clock.
 
